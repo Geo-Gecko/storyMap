@@ -1,0 +1,127 @@
+{
+    "storymap": {
+        "map_type": "zoomify",
+        "slides": [
+            {
+				"background": {			
+					"color": 				"#c4c0c0",
+					"opacity": 			50
+				},
+                "text": {
+                    "headline": "Kampala urban agriculture",
+                    "text": "Urban Agriculture is a very relevant practice in the contexts of food security, increasing income‐generating activities and creating a greener economy</p><p><strong>Walk through and read about some of the actors</strong>&nbsp;<br></span>"
+                },
+                "type": "overview"
+            },
+            
+             {
+                "date": "",
+                "location": {
+                    "use_custom_marker": true,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                    "lat": 66.79190947341796,
+                    "line": true,
+                    "lon": -85.4296875,
+                    "zoom": 4
+                },
+				"background": {			
+					"color": "#c4c0c0"
+				},
+                "media": {
+    
+                    "credit": "credit",
+                    "url": "https://i.ytimg.com/vi/xVbLM_iNLWk/maxresdefault.jpg"
+                },
+                "text": {
+                    "headline": "Input suppliers",
+                    "text": "<span>These play a key role in the value chain by providing the necessary inputs for production to begin. <p> For leafy vegetables, the required inputs are fertilizer supplies (organic and foliar), pesticides, top soil, water, and to a lesser extent seed & seedling. <p> For mushrooms the required inputs are spawn, substrate and substrate additives, water, plastics/growing bags and firewood.Availability of these inputs results in the start of the production process.</span>"
+                }
+            },
+            
+            {
+                "date": "",
+                "location": {
+                    "use-custom_icon": true,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                    "lat": 37.7185903255881677,
+                    "line": true,
+                    "lon": -35.5078125,
+                    "zoom": 4
+                },
+				"background": {			
+					"color": "#c4c0c0"
+				},
+                "media": {
+                    "caption": "caption",
+                    "credit": "credit",
+                    "url": "https://i.ytimg.com/vi/xVbLM_iNLWk/maxresdefault.jpg"
+                },
+                "text": {
+                    "headline": "Producer",
+                    "text": "<span>These are the farmers responsible for the production phase of the value chain.<p> For leafy vegetables, this stage  involves preparation gardening, vegetable planting, crop management, harvesting and initial sorting and grading for market.<p>For mushrooms, it involves soaking, sorting and fermentation, sterilization, spawning, watering, regulating temperature and humidity and then harvesting</span>"
+                }
+            },
+            {
+                "date": "",
+				"background": {			
+					"color": "#c4c0c0"
+				},
+                "location": {
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                    "lat": -9.96885060854611,
+                    "line": true,
+                    "lon": 15.468749999999998,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "caption",
+                    "credit": "credit",
+                    "url": "http://www.julianmonroefisher.com/coloradoafricanexpedition2007/photost/20070208_06.jpg"
+                },
+                "text": {
+                    "headline": "Trader",
+                    "text": "<span>text here</span>"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "use_custom_marker": true,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                    "lat": -51.39920565355377,
+                    "line": true,
+                    "lon": 65.654296875,
+                    "zoom": 4
+                },
+				"background": {			
+					"color": "#c4c0c0"
+				},
+                "media": {
+                    "caption": "caption",
+                    "credit": "credit",
+                    "url": "https://agra.org/news/wp-content/uploads/2018/04/food-table-790x593.jpg"
+                },
+                "text": {
+                    "headline": "Consumer",
+                    "text": "text here"
+                }
+            },{
+				"background": {			
+					"url": 	"http://www.premierlife.ca/wp-content/uploads/2012/11/Arya-Stark-arya-stark-25155750-818-1000.png",
+					"color": 				"#c4c0c0",
+					"opacity": 			50
+				},
+				"media": {
+                    "caption": "caption",
+                    "credit": "credit",
+                    "url": "https://seeklogo.com/images/K/kcca-kampala-capital-city-authority-logo-455486392C-seeklogo.com.png"
+                },
+                "text": {
+                    "headline": "Want to know more?",
+                    "text": "Read the report: "
+                },
+                "type": "overview"
+            }
+        ]
+    }
+}
